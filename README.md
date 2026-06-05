@@ -1,4 +1,4 @@
-## Hi!!! 👋
+## Hi!!! 🤗
 
 My name is Zamijah (zuh-my-jzuh) Shakeur-Tompkins, and I am a Senior Compsci major at Howard University in Washington, DC.
 
