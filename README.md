@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi!!! 👋
 
+My name is Zamijah (zuh-my-jzuh) Shakeur-Tompkins, and I am a Senior Compsci major at Howard University in Washington, DC.
+
+This is exciting, I didn't know I could create a profile readme lol.
+
+I've taken an interest into game development this year after creating Boggle and Bison Trivia with my team for Software Enginerring, as well as taking WEB101 with Codepath and realizing how much I love web development and will definitely do it as a hobby if not my career. I've been programming games like Pong (I have like 5 versions of Pong now in different languages loll) since I was in middle school and with my newfound experience with web-dev I was able to start the creation of my own online gaming platform, reminiscent of the flash sites I would go to as a child. This summer I intend to have at least two games fully functioning and I'm super excited to show y'all the finished project! 
+
+The website itself is functional and you can access it here: https://games.zamijah-shakeurtomp.workers.dev/
 <!--
 **zamijahtomp/zamijahtomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
