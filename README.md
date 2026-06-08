@@ -1,12 +1,8 @@
 ## Hi!!! 🤗
 
-My name is Zamijah (zuh-my-jzuh) Shakeur-Tompkins, and I am a Senior Compsci major at Howard University in Washington, DC.
+My name is Zamijah (zuh-my-jzuh) Shakeur-Tompkins, and I am a Senior Compsci major at Howard University in Washington, DC. I discovered a greater interest in game development this year after creating Boggle and Bison Trivia with my team for Software Engineering. Afterwards I took WEB101 with Codepath and realizing how much I love web development I figured I definitely want this to be my hobby if not my career. I've been programming games like Pong (I have like 5 versions of Pong now in different languages loll) since I was in middle school and with my newfound experience with web-dev I was able to start the creation of my own online gaming platform, reminiscent of the flash sites I would go to as a child. This summer I intend to have at least two games fully functioning, Pong and Battleship! 💫
 
 😄 Pronouns: she/her/hers 🏳️‍🌈💖
-
-This is exciting, I didn't know I could create a profile readme lol 😂
-
-I discovered a greater interest in game development this year after creating Boggle and Bison Trivia with my team for Software Engineering. Afterwards I took WEB101 with Codepath and realizing how much I love web development I figured I definitely want this to be my hobby if not my career. I've been programming games like Pong (I have like 5 versions of Pong now in different languages loll) since I was in middle school and with my newfound experience with web-dev I was able to start the creation of my own online gaming platform, reminiscent of the flash sites I would go to as a child. This summer I intend to have at least two games fully functioning, Pong and Battleship! 💫
 
 💬 Ask me about:
 - My plants 🌱
